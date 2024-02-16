@@ -1,0 +1,56 @@
+
+
+#box{
+    border-radius: 15px;
+    background-color:rgb(7, 15, 43);
+    color: aliceblue;
+    width: 400px;
+    margin: 250px;
+    
+    
+}
+
+.para{
+    font-size: large;
+    padding-left: 30px;
+    padding-top: 35px;
+}
+
+span{
+   
+    color:rgb(146, 144, 195);
+    font-size: 14px;
+   
+}
+
+#inside{
+    
+    padding-top: 20px;
+    margin: 25px;
+    align-items: center;
+    text-align: center;
+    border: 3px dotted ;
+    border-radius: 15px;
+    
+}
+
+#but{
+    padding-left: 30px;
+
+}
+
+.button{
+    font-weight: bold;
+    border: solid none;
+
+    margin-bottom: 10px;
+    justify-content:space-evenly;
+    margin-left: 10px;
+    width: 150px;
+    padding: 5px;
+
+}
+
+#save{
+    background-color:rgb(146, 144, 195);
+}
